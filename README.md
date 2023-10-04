@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Mishra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
+
+- 🌱 I’m currently learning **Reactjs**
+
+- 💬 Ask me about **Javascript , Nodejs And MongoDB**
 
 - 📫 How to reach me **am4729222@gmail.com**
 
